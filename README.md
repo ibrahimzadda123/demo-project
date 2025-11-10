@@ -1,2 +1,2 @@
 # demo-project
-i am just buildong this repo to check how to use gethub
+i am just building this repo to check how to use gethub
